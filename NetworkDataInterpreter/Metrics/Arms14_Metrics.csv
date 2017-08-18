@@ -1,0 +1,17 @@
+Node,Betweenness Centrality
+Germany,0.002951469
+Japan,6.91E-05
+Russian Federation,0.000400449
+Ukraine,0
+USA,0.005109693
+,
+Node,Eigenvector_centrality
+Germany,0.035974773
+Japan,0.035974773
+Russian Federation,0.035974773
+Ukraine,0.278804487
+USA,0.035974773
+,
+Average shortest path length,
+2013,0.036557789
+2014,0.037763421
